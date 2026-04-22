@@ -8,10 +8,13 @@ Frontend developer (React, UI-focused)
 - CSS / Tailwind
 
 🚀 Projects:
-- Movie App → ([ссылка](https://github.com/marygeraska/movie-app-react))
-- Singapore GP → ([ссылка](https://github.com/marygeraska/singapore-f1))
-- Charles Leclerc - Formula 1 driver → ([ссылка](https://github.com/marygeraska/charles-leclerc-website))
+- Movie App → ([link](https://github.com/marygeraska/movie-app-react))
+- Singapore GP → ([link](https://github.com/marygeraska/singapore-f1))
+- Charles Leclerc - Formula 1 driver → ([link](https://github.com/marygeraska/charles-leclerc-website))
 
+🪷 About me:
+I enjoy building clean interfaces and improving user experience.
+ 
 📫 Contact:
 - Telegram: https://t.me/geraska_mary
 - Email: mrgerasimova01@gmail.com
