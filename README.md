@@ -5,7 +5,7 @@ Frontend developer (React, UI-focused)
 💻 Tech:
 - React
 - JavaScript
-- CSS
+- CSS / Tailwind
 
 🚀 Projects:
 - Movie App → ([ссылка](https://github.com/marygeraska/movie-app-react))
